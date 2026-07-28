@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/devu0508/DSA/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/devu0508/DSA/tree/master/0057-insert-interval) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devu0508/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/devu0508/DSA/tree/master/0169-majority-element) |
 ## Binary Search
