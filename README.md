@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/devu0508/DSA/tree/master/0057-insert-interval) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devu0508/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/devu0508/DSA/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/devu0508/DSA/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
@@ -37,5 +38,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/devu0508/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/devu0508/DSA/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
