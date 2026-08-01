@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/devu0508/DSA/tree/master/0011-container-with-most-water) |
 | [0056-merge-intervals](https://github.com/devu0508/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/devu0508/DSA/tree/master/0057-insert-interval) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devu0508/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -39,10 +40,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/devu0508/DSA/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/devu0508/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/devu0508/DSA/tree/master/0344-reverse-string) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/devu0508/DSA/tree/master/0238-product-of-array-except-self) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/devu0508/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
