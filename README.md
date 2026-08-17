@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/devu0508/DSA/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/devu0508/DSA/tree/master/0344-reverse-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/devu0508/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/devu0508/DSA/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/devu0508/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
