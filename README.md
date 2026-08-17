@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/devu0508/DSA/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/devu0508/DSA/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/devu0508/DSA/tree/master/0344-reverse-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/devu0508/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -55,5 +56,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/devu0508/DSA/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/devu0508/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/devu0508/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
